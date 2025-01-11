@@ -220,11 +220,7 @@ nav {
     gap: 32;
     padding: 0px;
 }
-.donate-section{
-    /* position: static;
-width: 1071px;
-height: 128px; */
-}
+
 .btn-1, .btn-2, .btn-3, .btn-4{
     color: rgba(14, 14, 14, 0.8);
     font-family: Fira Sans;
@@ -248,21 +244,21 @@ height: 128px; */
 }
 .donate-tittle{
     color: rgb(14, 14, 14);
-font-family: Fira Sans;
-font-size: 40px;
-font-weight: 700;
-line-height: 48px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 .donate-description{
     color: rgba(14, 14, 14, 0.7);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 200px;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 200px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
 }
 .btn-1:hover{
     cursor: pointer;
@@ -288,6 +284,7 @@ text-align: center;
     color: #000000;
     border: 3px solid #000000;
 }
+/* footer section */
 .foot-container{
     display: flex;
     justify-content: center;
